@@ -1,0 +1,30 @@
+D:\Internship Practical tests\UMT Software\RectangleProblem\bin\Debug\net7.0\RectangleProblem.exe
+D:\Internship Practical tests\UMT Software\RectangleProblem\bin\Debug\net7.0\RectangleProblem.deps.json
+D:\Internship Practical tests\UMT Software\RectangleProblem\bin\Debug\net7.0\RectangleProblem.runtimeconfig.json
+D:\Internship Practical tests\UMT Software\RectangleProblem\bin\Debug\net7.0\RectangleProblem.dll
+D:\Internship Practical tests\UMT Software\RectangleProblem\bin\Debug\net7.0\RectangleProblem.pdb
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.csproj.AssemblyReference.cache
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.AssemblyInfoInputs.cache
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.AssemblyInfo.cs
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.csproj.CoreCompileInputs.cache
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.dll
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\refint\RectangleProblem.dll
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.pdb
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\RectangleProblem.genruntimeconfig.cache
+D:\Internship Practical tests\UMT Software\RectangleProblem\obj\Debug\net7.0\ref\RectangleProblem.dll
+D:\UBB-Projects\RectangleProblem\bin\Debug\net7.0\RectangleProblem.exe
+D:\UBB-Projects\RectangleProblem\bin\Debug\net7.0\RectangleProblem.deps.json
+D:\UBB-Projects\RectangleProblem\bin\Debug\net7.0\RectangleProblem.runtimeconfig.json
+D:\UBB-Projects\RectangleProblem\bin\Debug\net7.0\RectangleProblem.dll
+D:\UBB-Projects\RectangleProblem\bin\Debug\net7.0\RectangleProblem.pdb
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.csproj.AssemblyReference.cache
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.AssemblyInfoInputs.cache
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.AssemblyInfo.cs
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.csproj.CoreCompileInputs.cache
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.dll
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\refint\RectangleProblem.dll
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.pdb
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\RectangleProblem.genruntimeconfig.cache
+D:\UBB-Projects\RectangleProblem\obj\Debug\net7.0\ref\RectangleProblem.dll
